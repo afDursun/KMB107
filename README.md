@@ -5,7 +5,7 @@ Ders Sorumlu Hoca: **Arş. Gör. Dr. Kübra Seyhan** (_Ofis Saati: Pazartesi: 14
 Ders Sorumlu Araştırma Görevlisi: **Arş. Gör. Ahmet Faruk Dursun** (_Ofis Saati: Salı: 11:00-12:00_)
 
 
-
+Bu depoya ulaşmak için QR kodu okutabilirsiniz.
 <p align="center">
-<img src="https://afdursun.com.tr/kmb107/qr.png" alt="Adım1" height="500">
+<img src="https://afdursun.com.tr/kmb107/qr.png" alt="QR-Kod" height="200">
 </p>
