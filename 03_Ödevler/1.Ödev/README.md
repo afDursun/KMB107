@@ -20,7 +20,7 @@ Girilen sayıların toplamı: 60
 ```
 
 ## 2. Kısım
-kullanıcıdan alınan üç sayı arasında belirli bir koşulu kontrol etmeniz gerekmektedir. Koşul şu şekildedir: İkinci sayı birinci sayıdan büyük olmalı VE üçüncü sayı da ikinci sayıdan küçük eşit olmalıdır. Bu koşul sağlandığında ekrana `1`, aksi takdirde `0` yazdıran uygulamayı gerçekleştiriniz.
+kullanıcıdan alınan üç sayı arasında belirli bir koşulu kontrol etmeniz gerekmektedir. Koşul şu şekildedir: İkinci sayı birinci sayıdan büyük olmalı VE üçüncü sayı da ikinci sayıdan küçük eşit olmalıdır. Bu koşul sağlandığında ekrana `1`, aksi takdirde `0` yazdıran uygulamayı gerçekleştiriniz.<br>
 İpucu: Burada kontrol işlemlerini derste görmüş olduğunuz, >,< >=,<=,&&,|| gibi operatörleri kullanabilirsiniz.
 ### Örnek Çıktılar:
 ```
