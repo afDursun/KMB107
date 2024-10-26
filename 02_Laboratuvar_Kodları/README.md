@@ -6,4 +6,4 @@ Bu bölüme laboratuvarda gösterilen örnek kodlar eklenecektir.
 <a href="https://github.com/afDursun/KMB107/blob/main/02_Laboratuvar_Kodları/hafta3.c">3.Hafta: Kullanıcıdan Veri Alma ve Biçimlendirilmiş printf()</a><br>
 <a href="https://github.com/afDursun/KMB107/blob/main/02_Laboratuvar_Kodları/hafta4.c">4.Hafta: Koşul (if-else) Yapısı</a>
 <br>
-<a href="https://github.com/afDursun/KMB107/blob/main/02_Laboratuvar_Kodları/hafta4.c">5-6.Hafta: if-else/switch-case</a>
+<a href="">5-6.Hafta: if-else/switch-case</a>
