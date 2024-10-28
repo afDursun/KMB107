@@ -11,3 +11,5 @@ Bu depoya ulaşmak için QR kodu okutabilirsiniz.
 <p align="center">
 <img src="https://afdursun.com.tr/kmb107/qr.png" alt="QR-Kod" height="200">
 </p>
+
+<h2 style="color:red;" align="center">🚨 04.11.2024 tarihinde laboratuvar ortamında uygulamalı quiz gerçekleştirilecektir. 🚨 </h2>
