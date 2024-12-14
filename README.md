@@ -11,3 +11,5 @@ Bu depoya ulaşmak için QR kodu okutabilirsiniz.
 <p align="center">
 <img src="https://afdursun.com.tr/kmb107/qr.png" alt="QR-Kod" height="200">
 </p>
+
+<h2 style="color:red;" align="center">🚨 <a href="https://github.com/afDursun/KMB107/tree/main/04_Quiz_%C3%87%C3%B6z%C3%BCmleri">Ara sınav notları duyrulmuştur. İncelemek için buraya tıklayınız.</a> 🚨 </h2>
