@@ -12,5 +12,5 @@ Bu depoya ulaşmak için QR kodu okutabilirsiniz.
 <img src="https://afdursun.com.tr/kmb107/qr.png" alt="QR-Kod" height="200">
 </p>
 
-<h2 style="color:red;" align="center">❗ 30 Aralık 2024 Pazartesi günü saat 08:15’te yapılması planlanan teorik ders işlenmeyecektir. Ancak, saat 13:00’teki uygulama dersimiz laboratuvar ortamında gerçekleşecektir. Bu bilgiyi whatsapp gruplarında duyurunuz. ❗</h2>
+<h2 style="color:red;" align="center">❗ 30 Aralık 2024 Pazartesi günü saat 08:15’te yapılması planlanan teorik ders işlenmeyecektir. Saat 13:00’teki uygulama dersimiz laboratuvar ortamında gerçekleşecektir. Bu bilgiyi whatsapp gruplarında duyurunuz. ❗</h2>
 
