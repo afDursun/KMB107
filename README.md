@@ -12,5 +12,14 @@ Bu depoya ulaşmak için QR kodu okutabilirsiniz.
 <img src="https://afdursun.com.tr/kmb107/qr.png" alt="QR-Kod" height="200">
 </p>
 
-<h2 style="color:red;" align="center">❗ 30 Aralık 2024 Pazartesi günü saat 08:15’te yapılması planlanan teorik ders işlenmeyecektir. Saat 13:00’teki uygulama dersimiz laboratuvar ortamında gerçekleşecektir. Bu bilgiyi whatsapp gruplarında duyurunuz. ❗</h2>
+<h2 style="color:red;" align="center">❗ Final sınavı kapsamında sorumlu olduğunuz konular ❗</h2>
+<p>1-Değişkenler ve Değişken Tanımlama</p>
+<p>2-printf() ve scanf() fonksiyonları</p>
+<p>3-Aritmetik İşlemler</p>
+<p>4-Mantıksal Operatörler</p>
+<p>5-Koşul İfadeleri (if)</p>
+<p>6-switch-case Yapıları</p>
+<p>7-Döngüler (for, while, do while)</p>
+<p>8-Fonksiyonlar</p>
+<p>9-Diziler</p>
 
